@@ -16,6 +16,7 @@
 <p align="center">
   <img alt="OriginSix" src="./screenshot.png" width="100%">
 </p>
+
 ## Versão Personalizada:
 
 Disponível no [Github Pages](https://gabrielgustavoms.github.io/beauty-salon/)
