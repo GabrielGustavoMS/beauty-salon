@@ -16,6 +16,9 @@
 <p align="center">
   <img alt="OriginSix" src="./screenshot.png" width="100%">
 </p>
+<p align="center">
+  <img alt="OriginSix" src="./preview.jpg" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
