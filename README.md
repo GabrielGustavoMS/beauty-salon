@@ -16,6 +16,10 @@
 <p align="center">
   <img alt="OriginSix" src="./screenshot.png" width="100%">
 </p>
+## Versão Personalizada:
+
+Disponível no [Github Pages](https://gabrielgustavoms.github.io/beauty-salon/)
+
 <p align="center">
   <img alt="OriginSix" src="./preview.jpg" width="100%">
 </p>
@@ -41,7 +45,9 @@ Utilitários
 
 ## 💻 Projeto
 
-OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer
+OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer.
+
+Essa aplicação web foi desenvolvida durante a sexta edição do evento Next Level Week, da Rocketseat. Realizei alteração nas cores e adaptações no layout mobile, melhorando sua responsividade.
 
 ## 🔖 Layout
 
@@ -49,6 +55,6 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./License.md) para mais detalhes.
 
 ---
